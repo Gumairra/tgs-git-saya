@@ -1,0 +1,13 @@
+# Jangan ikut push folder virtual environment
+venv/
+
+# File cache Python
+__pycache__/
+*.py[cod]
+
+# Backup Jupyter Notebook
+.ipynb_checkpoints/
+
+# File sistem (Windows / Mac)
+.DS_Store
+Thumbs.db

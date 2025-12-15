@@ -11,3 +11,5 @@ __pycache__/
 # File sistem (Windows / Mac)
 .DS_Store
 Thumbs.db
+
+clone/
